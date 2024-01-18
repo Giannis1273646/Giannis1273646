@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm a dedicated senior student at the University of Peloponnese, on the verge of completing my degree in Electrical and Computer Engineering. My journey has been fueled by a passion for crafting applications that seamlessly handle data, bringing user interactions to life.
+
+💻 Proficient in Java, I specialize in building applications allowing users to upload and process data directly from databases. As a soon-to-be graduate, I am eager to apply my skills in real-world scenarios, contributing to projects and collaborating with innovative minds.
+
+🎓 Anticipating the culmination of my academic journey this year, I am ready to transition into the professional realm, armed with a solid foundation and a hunger for continuous learning.
+
+🌐 Actively seeking opportunities to make a meaningful impact, I am open to internships and collaborations that foster growth and creativity.
+
+Let's connect, code, and make the most of this exciting journey! 💡
+
 
 <!--
 **Giannis1273646/Giannis1273646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
